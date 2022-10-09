@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on SoC Platform Develop Team at S.LSI Division in Samsung Electronics
+- 🔭 I’m currently working on Application Processor SW Develop Team at S.LSI Division in Samsung Electronics
 - 🌱 I’m currently learning C/Swift/JS/Kotlin and Linux Kernel/Hypervisor xen/iOS/Android
 - 📫 How to reach me: hzw94@naver.com
 
